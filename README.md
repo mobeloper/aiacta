@@ -1,10 +1,11 @@
 # AIACTA
+---
+## The Open Specification Standard for Global AI Content Transparency and Attribution 
+### Current Version 1.0
 
 **Welcome to The AI Architecture for Content Transparency and Attribution (AIACTA) Framewok**  
 
 AIACTA is the Open Standard that makes content used by AI systems traceable, attributable, and economically accountable.
-
-Current Version 1.0: The Open Specification Standard for Global AI Content Transparency
 
 ---
 
