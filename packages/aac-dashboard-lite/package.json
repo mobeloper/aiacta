@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "^19.2.4",
-    "react-dom": "^18.0.0",
+    "react-dom": "^19.2.4",
     "recharts": "^2.0.0",
     "axios": "^1.6.0",
     "crawl-manifest-client": "*"
