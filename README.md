@@ -14,7 +14,7 @@
 
 **Welcome to The AI Architecture for Content Transparency and Attribution (AIACTA) Framework**  
 
-AIACTA is an open, decentralised technical standard that bridges the gap between
+AIACTA™ is an open, decentralised technical standard that bridges the gap between
 AI inference engines and original content creators through **verifiable origin
 recognition** and **automated attribution**. It is the Open Standard that makes content used by AI systems traceable, attributable, and economically accountable.
 
@@ -24,7 +24,7 @@ recognition** and **automated attribution**. It is the Open Standard that makes 
 
 AI systems use web content without standardized attribution.
 
-AIACTA introduces a simple, interoperable way to:
+AIACTA™ introduces a simple, interoperable way to:
 
 - Identify and declare content origin and ownership
 - Provide attribution metadata to enable fair AI attribution
@@ -244,24 +244,41 @@ Full requirements: [docs/compliance-tiers.md](./docs/compliance-tiers.md)
 The AIACTA Foundation is being formed as a neutral non-profit to govern
 the specification, certification, and AAC distributions. 
 
-Founding Partners, Sponsors, and Board member advisors are welcome and encouraged at: foundation@aiacta.org
+Founding Partners, Sponsors, and Board member advisors are welcome and encouraged at: [foundation@aiacta.org]
+
+## 🤝 Join the Global Standard
+We are seeking a "Founding Class" of contributors to refine V2.0 Reference Implementation.
+
+1. **Star this [AIACTA](https://github.com/aiacta-org/aiacta) Repo** to show support for AI transparency. 
+2. **Review the Specs:** Open an Issue to discuss architectural improvements or edge cases. 
+3. **Become a Partner:** If you represent an AI Lab or a Major Publisher, contact the Founder for early-access pilot programs.
+
+> "We are not just building a protocol; we are designing the incentives that will allow human brilliance to scale alongside its greatest invention." — **Eric Michel, PhD**
+
+
+---
+
+## How to cite this work:
+
+```bash
+The AI Architecture for Content Transparency and Attribution (AIACTA) Framewok
+Creator: Eric Michel, PhD
+Date: March, 2026
+Copyright © 2026 Eric Michel  
+Licensed under the Apache License, Version 2.0
+```
 
 ---
 
 ## License and Intellectual Property  
 
-Apache License 2.0 · Copyright © 2026 Eric Michel, PhD
+### AIACTA™
+AI Architecture for Content Transparency and Attribution
 
-The AIACTA name and associated certification marks are trademarks of the
-Author. Any "AIACTA-compliant" designation requires explicit authorization
+Apache License 2.0 · Copyright © 2026 Eric Michel
+
+The AIACTA™ name and associated certification marks are trademarks of the
+Author. Any "AIACTA-Compliant" designation requires explicit authorization
 from the Author or the future governance body.
 
-## How to cite this work:
-```
-The AI Architecture for Content Transparency and Attribution (AIACTA) Framewok
-Author: Eric Michel, PhD
-Date: March, 2026
-Copyright © 2026 Eric Michel  
-Licensed under the Apache License, Version 2.0
-```
 ---
