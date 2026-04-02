@@ -8,5 +8,5 @@
     "down": "docker compose down",
     "test:e2e": "jest --testPathPattern=scenarios"
   },
-  "devDependencies": { "jest": "^29.0.0", "axios": "^1.6.0" }
+  "devDependencies": { "jest": "^30.3.0", "axios": "^1.6.0" }
 }

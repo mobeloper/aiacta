@@ -6,5 +6,5 @@
   "main": "src/index.js",
   "scripts": { "start": "node src/index.js", "test": "jest" },
   "dependencies": { "express": "^5.2.1", "uuid": "^9.0.0" },
-  "devDependencies": { "jest": "^29.0.0", "supertest": "^6.0.0" }
+  "devDependencies": { "jest": "^30.3.0", "supertest": "^6.0.0" }
 }
