@@ -1,6 +1,6 @@
 {
   "name": "attribution-test-harness",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Docker sandbox for testing all AIACTA Proposals 1–4 against a simulated publisher ecosystem (§12.1)",
   "author": "Eric Michel",
   "scripts": {
