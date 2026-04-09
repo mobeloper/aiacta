@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ai-citation-sdk',
-    version='1.0.6',
+    version='1.0.7',
     description='AIACTA Citation Webhook SDK for Python — signature verification, idempotency, and retry handling (Proposal 2, §3.4)',
     long_description=open('../../README.md', encoding='utf-8').read() if __import__('os').path.exists('../../README.md') else '',
     long_description_content_type='text/markdown',
