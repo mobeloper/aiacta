@@ -7,14 +7,14 @@ test('registers a canary URL', async () => {
   const res = await request(app).post('/canary/register').send({ content_template: 'Canary content {{TOKEN}}' });
   expect(res.status).toBe(201);
   expect(res.body.canary_id).toBeDefined();
-  canaryId   = res.body.canary_id;
-  uniqueToken= res.body.unique_token;
+  canaryId    = res.body.canary_id;
+  uniqueToken = res.body.unique_token;
 });
 
 test('serves canary page and logs crawler headers', async () => {
   const res = await request(app).get(`/canary/${canaryId}`)
     .set('User-Agent', 'TestBot/1.0')
-    .set('X-AI-Crawl-Purpose', 'rag');
+    .set('X-AIACTA-Crawl-Purpose', 'rag');
   expect(res.status).toBe(200);
   expect(res.text).toContain(uniqueToken);
 });
