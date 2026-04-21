@@ -1,6 +1,6 @@
 {
   "name": "vwp-gateway",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Verifiable Webhook Protocol (VWP) gateway — Proof-of-Inference validation, anti-Sybil throttling, and fraud pattern detection (§3.4A-D)",
   "author": "Eric Michel",
   "license": "Apache-2.0",
